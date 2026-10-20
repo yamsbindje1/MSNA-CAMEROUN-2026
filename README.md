@@ -78,3 +78,10 @@ File names are set in `run.R`, section "Input files".
 - `fiche_texte_na` and `fiche_seuil_n`: only used by the InDesign step (11, not included)
 
 Output folders are dated with `Sys.Date()`: a second run on the same day overwrites the files of that day.
+
+## Related repositories
+
+The same harmonised pipeline is used for the other MSNA 2026 countries:
+
+- [MSNA-MALI-2026](https://github.com/yamsbindje1/MSNA-MALI-2026)
+- [MSNA-NIGER-2026](https://github.com/yamsbindje1/MSNA-NIGER-2026)
