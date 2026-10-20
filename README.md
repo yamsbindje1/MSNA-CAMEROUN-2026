@@ -7,8 +7,6 @@ weighted analysis and writes the frequency tables and the bulletin inputs. Every
 > **This repository holds the scripts only.** The dataset, the Kobo tool, the sampling frame and all outputs are
 > kept out of it (see `.gitignore`). To run the pipeline, put the input files in `inputs/` (section 3).
 >
-> **The InDesign part is not included** (steps 07, 08 and 11, `src/functions/rank_region_need.R` and the InDesign
-> tools). `run.R` runs those steps only when their files are present, so the pipeline runs without them.
 
 Prepared by Yams Bindje, Data Specialist (IMPACT). Pipeline harmonised with Niger and Mali (October 2026).
 
